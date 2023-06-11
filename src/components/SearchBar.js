@@ -1,5 +1,11 @@
+// import React, { useState } from "react";
+
 function SearchBar() {
-  return <div>Searchbar</div>;
+  return (
+    <div>
+      <input />
+    </div>
+  );
 }
 
-export default Searchbar;
+export default SearchBar;
